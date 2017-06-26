@@ -1,2 +1,2 @@
 # Useful-tools
-Some useful first-principles calculation tools
+To judge if a metal is semimetallic or not
